@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.dbmdl
+*.dbproj.schemaview
+*.log
+
+# Build Folders
+bin/
+obj/
+out/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+/project.lock.json
+
+# Test Results
+TestResults/
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Others
+*.vsix
+
+# Ignore generated VS content index files
+.vs/**/FileContentIndex/
